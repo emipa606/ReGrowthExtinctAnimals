@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>ReGrowth: Extinct Animals (Continued)</name>
+  <packageId>Mlie.ReGrowthExtinctAnimals</packageId>
+  <author>Helixien</author>
+  <url>https://github.com/emipa606/ReGrowthExtinctAnimals</url>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+      <displayName>Vanilla Expanded Framework</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+      <downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+  </loadAfter>
+  <loadBefore>
+    <li>ReGrowth.BOTR.Core</li>
+  </loadBefore>
+  <description>[img]https://i.postimg.cc/1X4HT06h/Info.png[/img]
+Update of Helixiens mod https://steamcommunity.com/sharedfiles/filedetails/?id=2266685892
+with permission.
+
+- Some of the animals in this mod has been included in [url=https://steamcommunity.com/workshop/filedetails/?id=2260097569]ReGrowth 2[/url]. If that mod is loaded, its version of these animals will be used instead.
+
+[img]https://i.postimg.cc/8csH3dWV/Notice.png[/img]
+
+[table]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://i.postimg.cc/T1h9SjbF/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/ReGrowthExtinctAnimals][img]https://i.postimg.cc/fykKF7X4/Github.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.postimg.cc/MHXD40RW/Safe-To-Add.png[/img][/td]
+        [td][img]https://i.postimg.cc/brdTM0bP/Remove-May-Work.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.postimg.cc/hvhrw8xB/Original-Description.png[/img]
+[url=https://ko-fi.com/helixien][img]https://i.postimg.cc/GpQT2yb3/So-JM41A.png[/img][/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013][img]https://i.postimg.cc/L6vpJchv/lMvcJSM.png[/img][/url]
+
+[img]https://i.postimg.cc/yNP3dZ7q/Ql-OIC7F.png[/img]
+
+You can see all changes in the changelog tab!
+
+[b]Current mod version: 2.1b-Scrat-rev7[/b]
+
+[img]https://i.postimg.cc/bvtW9WYb/NuczGAx.png[/img]
+
+Nothing right now, minor bug fixes will come tho.
+
+[img]https://i.postimg.cc/RhK0rXRr/GmT36Tn.png[/img]
+
+[h1]What is ReGrowth?[/h1]
+
+ReGrowth is a mod deeply influenced by the philosophy of the Vanilla Expanded Series and the understanding how biomes work, what role they play in your game. Everything added was made to fit or mirror vanilla. From a simple UI texture to a new more complex system,being as performance and vanilla friendly is the main objective we have. 
+
+This module adds 11 new extinct animals to Rimworld, brought back to life with the wonders of genetic engineering. It is quite that simple actually. All of them fit perfectly into vanilla Rimworld and will spawn in their respective biomes, but are rarer than normal vanilla animals! 
+Interesting fact, dinosaur worlds are actually in Rimworlds lore! There is a planet called "Zoutera" that is classified as a Dino-world.
+
+All of these lovely animals have been made as a commission by Erin, who is quite literally the queen of making Rimworld animals. Her work is amazing! Luizi gave some of them a slight touch up for the remastered version.
+
+[b]ReGrowth is designed to be as lightweight as possible, adding the minimum of new code required for its auditions to work.[/b]
+
+[img]https://i.postimg.cc/vHTPvk3h/T9wzmJ9.png[/img]
+
+[img]https://i.postimg.cc/LX8YZ8s2/tfx-Ep-LJ.png[/img]
+[img]https://i.postimg.cc/fLRt0RbT/Vnva-Sbh.png[/img]
+[img]https://i.postimg.cc/435Hd9sD/Qfgja-QQ.png[/img]
+[img]https://i.postimg.cc/3Rx4DxwZ/YJsh-RXy.png[/img]
+[img]https://i.postimg.cc/d0vTwBP9/9ap0Ft-Y.png[/img]
+[img]https://i.postimg.cc/Qtd9WdMT/X4zf-K54.png[/img]
+[img]https://i.postimg.cc/rmw0twpG/X5QJrl0.png[/img]
+[img]https://i.postimg.cc/7LVJ62wQ/O7og-BR5.png[/img]
+[img]https://i.postimg.cc/k5cR4bqL/pfgkz0x.png[/img]
+[img]https://i.postimg.cc/qRvhCv77/w-GF67CI.png[/img]
+[img]https://i.postimg.cc/pTLhnLdx/T1Kv-Di5.png[/img]
+
+[img]https://i.postimg.cc/8CDrNHQ4/db-Zs-Jh-L.png[/img]
+
+These are all the mods we currently support from our end:
+
+[list]
+	[*]ReGrowth: Aspen
+[/list]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2255432128][img]https://i.postimg.cc/0NxJPfRW/f7Dvw-Xh.png[/img][/url]
+
+[img]https://i.postimg.cc/gJtwybwX/z-J5Tvr-A.png[/img]
+
+[b]Q: Can this mod be added to an existing save?[/b]
+A: Yes it can, but be aware some content like new terrain might require a new save to fully work.
+
+[b]Q: Can this mod be removed from a save?[/b]
+A: It depends. Technically it can be, but I will not provide support if you do.
+
+[b]Q: Can all of them be tamed?[/b]
+A: Yes, of course!
+
+[b]Q: Can I disable some of the animals?[/b]
+A: Yes, you find a section called "Animal Toggles" in the mod settings. There you can disable any animal you want.
+
+[b]Q: Can I use this and "Megafauna"?[/b]
+A: Yes, both mods work alongside each other just fine.
+
+[img]https://i.postimg.cc/Hn9C4KzW/L1YzL79.png[/img]
+
+[list]
+	[*]Graphics are made by Erin and Luis.
+	[*]Preview images are created by Oskar Potocki.
+	[*]XML and patches are done by me.
+	[*]C# Code done by Taranchuk. Thanks to erdelf for his help with the weather overlays.
+	[*]Woolly Stego is based on the amazing concept art from Shaun Keenan.
+	[*]Sounds are made by Dendroid.
+[/list]
+
+Rimworld is owned by Tynan Sylvester and he wants you to finally buy his book!  
+
+[url=https://creativecommons.org/licenses/by-nc-nd/4.0/] CC BY-NC-ND 4.0[/url]
+
+[img]https://i.postimg.cc/JhqHnkMp/JHd-Wbeg.png[/img]
+
+[img]https://i.postimg.cc/x8qR7GH9/Reporting-Issues.png[/img]
+[list]
+[*] See if the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Always post your log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url]
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
+[/list]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+</ModMetaData>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/BiomeDef[defName="BorealForest"]/wildAnimals</xpath>
+        <value>
+          <RG_SabertoothTiger>0.04</RG_SabertoothTiger>
+        </value>
+      </li>
+      <li MayRequire="ReGrowth.BOTR.AspenForest" Class="PatchOperationAdd">
+        <xpath>/Defs/BiomeDef[defName="RG_AspenForest"]/wildAnimals</xpath>
+        <value>
+          <RG_SabertoothTiger>0.04</RG_SabertoothTiger>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/BiomeDef[defName="Tundra"]/wildAnimals</xpath>
+        <value>
+          <RG_SabertoothTiger>0.02</RG_SabertoothTiger>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/BiomeDef[defName="ColdBog"]/wildAnimals</xpath>
+        <value>
+          <RG_SabertoothTiger>0.04</RG_SabertoothTiger>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/BiomeDef[defName="IceSheet"]/wildAnimals</xpath>
+        <value>
+          <RG_SabertoothTiger>0.01</RG_SabertoothTiger>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/BiomeDef[defName="SeaIce"]/wildAnimals</xpath>
+        <value>
+          <RG_SabertoothTiger>0.01</RG_SabertoothTiger>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/BiomeDef[defName="TemperateForest"]/wildAnimals</xpath>
+        <value>
+          <RG_Dodo>0.05</RG_Dodo>
+          <RG_TerrorBird>0.3</RG_TerrorBird>
+          <RG_Synthetion>0.2</RG_Synthetion>
+          <RG_Thrinaxodon>0.8</RG_Thrinaxodon>
+          <RG_SabertoothTiger>0.04</RG_SabertoothTiger>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/BiomeDef[defName="TemperateSwamp"]/wildAnimals</xpath>
+        <value>
+          <RG_TerrorBird>0.1</RG_TerrorBird>
+          <RG_Thrinaxodon>0.4</RG_Thrinaxodon>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/BiomeDef[defName="TropicalRainforest"]/wildAnimals</xpath>
+        <value>
+          <RG_Dodo>0.5</RG_Dodo>
+          <RG_TerrorBird>0.4</RG_TerrorBird>
+          <RG_Thrinaxodon>0.2</RG_Thrinaxodon>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/BiomeDef[defName="TropicalSwamp"]/wildAnimals</xpath>
+        <value>
+          <RG_TerrorBird>0.2</RG_TerrorBird>
+          <RG_Thrinaxodon>0.1</RG_Thrinaxodon>
+        </value>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/BiomeDef[defName="AridShrubland"]/wildAnimals</xpath>
+        <value>
+          <RG_Dodo>0.5</RG_Dodo>
+          <RG_Synthetion>0.2</RG_Synthetion>
+          <RG_TerrorBird>0.4</RG_TerrorBird>
+          <RG_Thrinaxodon>0.2</RG_Thrinaxodon>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>

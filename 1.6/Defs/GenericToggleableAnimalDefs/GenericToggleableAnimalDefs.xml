@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <VEF.AnimalBehaviours.GenericToggleableAnimalDef>
+    <defName>RG_ToggleableExtinctAnimalsCore</defName>
+    <toggleablePawns>
+      <li>RG_Synthetion</li>
+      <li>RG_Dodo</li>
+      <li>RG_TerrorBird</li>
+      <li>RG_Thrinaxodon</li>
+      <li>RG_SabertoothTiger</li>
+    </toggleablePawns>
+  </VEF.AnimalBehaviours.GenericToggleableAnimalDef>
+</Defs>

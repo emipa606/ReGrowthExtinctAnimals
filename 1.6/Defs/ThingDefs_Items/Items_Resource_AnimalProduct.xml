@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--====================  Dodo ===========================-->
+  <ThingDef ParentName="EggUnfertBase">
+    <defName>RG_EggDodoEggUnfertilized</defName>
+    <label>dodo egg (unfert.)</label>
+    <description>An unfertilized dodo egg. It can be eaten raw, but it's much, much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggOval</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <color>(146,102,66)</color>
+      <drawSize>(1.2,1.2)</drawSize>
+    </graphicData>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <stackLimit>25</stackLimit>
+    <statBases>
+      <MarketValue>16</MarketValue>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase">
+    <defName>RG_EggDodoEggFertilized</defName>
+    <label>dodo egg (fert.)</label>
+    <description>A fertilized dodo egg. If all goes well, it should hatch into a dodo. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggOval</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <color>(146,102,66)</color>
+      <drawSize>(1.2,1.2)</drawSize>
+    </graphicData>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <stackLimit>25</stackLimit>
+    <statBases>
+      <MarketValue>16</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>4</hatcherDaystoHatch>
+        <hatcherPawn>RG_Dodo</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <!--====================  Terror Bird ===========================-->
+  <ThingDef ParentName="EggFertBase">
+    <defName>RG_EggTerrorBirdFertilized</defName>
+    <label>terror bird egg (fert.)</label>
+    <description>A fertilized terror bird egg. If all goes well, it should hatch into a baby terror bird. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/DinosaurEgg</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <color>(146,102,66)</color>
+      <drawSize>(1.4,1.4)</drawSize>
+    </graphicData>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <stackLimit>25</stackLimit>
+    <statBases>
+      <MarketValue>22</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>4.27</hatcherDaystoHatch>
+        <hatcherPawn>RG_TerrorBird</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggUnfertBase">
+    <defName>RG_EggTerrorBirdUnFertilized</defName>
+    <label>terror bird egg (unfert.)</label>
+    <description>An unfertilized terror bird egg. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/DinosaurEgg</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <color>(146,102,66)</color>
+      <drawSize>(1.4,1.4)</drawSize>
+    </graphicData>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <stackLimit>25</stackLimit>
+    <statBases>
+      <MarketValue>22</MarketValue>
+    </statBases>
+  </ThingDef>
+  <!--====================  Thrinaxodon ===========================-->
+  <ThingDef ParentName="EggFertBase">
+    <defName>RG_EggThrinaxodonFertilized</defName>
+    <label>thrinaxodon egg (fert.)</label>
+    <description>A fertilized thrinaxodon egg. If all goes well, it should hatch into a baby thrinaxodon. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggOval</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <color>(146,102,66)</color>
+      <drawSize>(1.2,1.2)</drawSize>
+    </graphicData>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <stackLimit>25</stackLimit>
+    <statBases>
+      <MarketValue>12</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3.65</hatcherDaystoHatch>
+        <hatcherPawn>RG_Thrinaxodon</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="EggUnfertBase">
+    <defName>RG_EggThrinaxodonUnFertilized</defName>
+    <label>thrinaxodon egg (unfert.)</label>
+    <description>An unfertilized thrinaxodon egg. It can be eaten raw, but it's much better cooked.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggOval</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+      <color>(146,102,66)</color>
+      <drawSize>(1.2,1.2)</drawSize>
+    </graphicData>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <stackLimit>25</stackLimit>
+    <statBases>
+      <MarketValue>12</MarketValue>
+    </statBases>
+  </ThingDef>
+</Defs>
