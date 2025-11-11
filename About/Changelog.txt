@@ -1,4 +1,7 @@
 # Changelog for ReGrowthExtinctAnimals
 
+1.6.1 - Removed the broken vanilla fishing patch
+
+
 1.6.0 - First publish
 

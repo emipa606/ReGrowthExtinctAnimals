@@ -2,16 +2,18 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "LastXmlCleaning": "2025-11-09T22:15:32.4066836+01:00",
+  "LastXmlCleaning": "2025-11-11T21:08:55.1629365+01:00",
   "SocialImageSet": true,
   "Patches": true,
   "Defs": true,
   "Assemblies": false,
   "LinesOfCode": 0,
-  "LinesOfXML": 42915,
+  "LinesOfXML": 39916,
   "SearchTags": [
     " vanilla friendly",
     " biomes"
   ],
-  "PreviewVersion": "1.6"
+  "PreviewVersion": "1.6",
+  "RimWorldBaseId": 23129,
+  "CodeBaseSize": 73
 }
