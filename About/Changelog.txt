@@ -1,5 +1,8 @@
 # Changelog for ReGrowthExtinctAnimals
 
+1.6.2 - Fixed xml-filenames
+
+
 1.6.1 - Removed the broken vanilla fishing patch
 
 

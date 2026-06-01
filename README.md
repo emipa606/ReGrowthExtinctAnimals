@@ -121,4 +121,4 @@ Rimworld is owned by Tynan Sylvester and he wants you to finally buy his book!
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/ReGrowthExtinctAnimals?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3602926791) | tags:  vanilla friendly,  biomes
+[![Image](https://img.shields.io/github/v/release/emipa606/ReGrowthExtinctAnimals?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3602926791) | tags: biomes, vanilla friendly
