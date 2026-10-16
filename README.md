@@ -1,11 +1,12 @@
-# [ReGrowth: Extinct Animals (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3602926791)
+# [ReGrowth: Extinct Animals (Continued)]()
 
 ![Image](https://img.litet.net/logos/Info.png)
 
 Update of Helixiens mod https://steamcommunity.com/sharedfiles/filedetails/?id=2266685892
 with permission.
 
-- Some of the animals in this mod has been included in [ReGrowth 2](https://steamcommunity.com/workshop/filedetails/?id=2260097569). If that mod is loaded, its version of these animals will be used instead.
+**The release of RimWorld 1.7 added a system where assets like textures and sounds can be cached to improve performance**.
+To avoid doubling the size of the mod, it was re-released with only this cache included, you can find the previous version of this mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3602926791).
 
 ![Image](https://img.litet.net/logos/Notice.png)
 	
@@ -119,6 +120,4 @@ Rimworld is owned by Tynan Sylvester and he wants you to finally buy his book!
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
- 
-
-[![Image](https://img.shields.io/github/v/release/emipa606/ReGrowthExtinctAnimals?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3602926791) | tags: biomes, vanilla friendly
+  | biomes, vanilla friendly
