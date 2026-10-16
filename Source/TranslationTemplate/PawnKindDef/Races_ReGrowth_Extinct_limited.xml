@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dodo -->
+  <RG_Dodo.label>dodo</RG_Dodo.label>
+  <!-- EN: cock -->
+  <RG_Dodo.labelMale>cock</RG_Dodo.labelMale>
+  <!-- EN: chick -->
+  <RG_Dodo.lifeStages.chick.label>chick</RG_Dodo.lifeStages.chick.label>
+  
+  <!-- EN: smilodon -->
+  <RG_SabertoothTiger.label>smilodon</RG_SabertoothTiger.label>
+  
+  <!-- EN: synthetion -->
+  <RG_Synthetion.label>synthetion</RG_Synthetion.label>
+  <!-- EN: doe -->
+  <RG_Synthetion.labelFemale>doe</RG_Synthetion.labelFemale>
+  <!-- EN: buck -->
+  <RG_Synthetion.labelMale>buck</RG_Synthetion.labelMale>
+  <!-- EN: calf -->
+  <RG_Synthetion.lifeStages.calf.label>calf</RG_Synthetion.lifeStages.calf.label>
+  
+  <!-- EN: terror bird -->
+  <RG_TerrorBird.label>terror bird</RG_TerrorBird.label>
+  <!-- EN: chick -->
+  <RG_TerrorBird.lifeStages.chick.label>chick</RG_TerrorBird.lifeStages.chick.label>
+  
+  <!-- EN: thrinaxodon -->
+  <RG_Thrinaxodon.label>thrinaxodon</RG_Thrinaxodon.label>
+  <!-- EN: hatchling -->
+  <RG_Thrinaxodon.lifeStages.hatchling.label>hatchling</RG_Thrinaxodon.lifeStages.hatchling.label>
+  
+</LanguageData>

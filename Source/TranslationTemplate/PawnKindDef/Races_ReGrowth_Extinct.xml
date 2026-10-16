@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic drak -->
+  <RG_ArcticDrak.label>arctic drak</RG_ArcticDrak.label>
+  <!-- EN: hatchling -->
+  <RG_ArcticDrak.lifeStages.hatchling.label>hatchling</RG_ArcticDrak.lifeStages.hatchling.label>
+  
+  <!-- EN: megalenhydris -->
+  <RG_Megalenhydris.label>megalenhydris</RG_Megalenhydris.label>
+  
+  <!-- EN: Sabertooth squirrel -->
+  <RG_SabertoothSquirrel.label>Sabertooth squirrel</RG_SabertoothSquirrel.label>
+  
+  <!-- EN: velociraptor -->
+  <RG_Velociraptor.label>velociraptor</RG_Velociraptor.label>
+  <!-- EN: hatchling -->
+  <RG_Velociraptor.lifeStages.hatchling.label>hatchling</RG_Velociraptor.lifeStages.hatchling.label>
+  
+  <!-- EN: woolly mammoth -->
+  <RG_WoollyMammoth.label>woolly mammoth</RG_WoollyMammoth.label>
+  <!-- EN: mammoth calf -->
+  <RG_WoollyMammoth.lifeStages.mammoth_calf.label>mammoth calf</RG_WoollyMammoth.lifeStages.mammoth_calf.label>
+  <!-- EN: calves -->
+  <RG_WoollyMammoth.lifeStages.mammoth_calf.labelPlural>calves</RG_WoollyMammoth.lifeStages.mammoth_calf.labelPlural>
+  
+  <!-- EN: woolly rhinoceros -->
+  <RG_WoollyRhinoceros.label>woolly rhinoceros</RG_WoollyRhinoceros.label>
+  <!-- EN: woolly rhino calf -->
+  <RG_WoollyRhinoceros.lifeStages.woolly_rhino_calf.label>woolly rhino calf</RG_WoollyRhinoceros.lifeStages.woolly_rhino_calf.label>
+  
+  <!-- EN: woolly stegosaurus -->
+  <RG_WoollyStegosaurus.label>woolly stegosaurus</RG_WoollyStegosaurus.label>
+  <!-- EN: hatchling -->
+  <RG_WoollyStegosaurus.lifeStages.hatchling.label>hatchling</RG_WoollyStegosaurus.lifeStages.hatchling.label>
+  
+</LanguageData>

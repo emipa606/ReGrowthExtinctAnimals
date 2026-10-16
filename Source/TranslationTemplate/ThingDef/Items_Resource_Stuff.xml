@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heavy dinosaurs hide -->
+  <RG_DinosaursHideHeavy.label>heavy dinosaurs hide</RG_DinosaursHideHeavy.label>
+  <!-- EN: Heavy hide from larger, tougher theropod or sauropod. It's reasonbly good at protection. -->
+  <RG_DinosaursHideHeavy.description>Heavy hide from larger, tougher theropod or sauropod. It's reasonbly good at protection.</RG_DinosaursHideHeavy.description>
+  
+  <!-- EN: medium dinosaurs hide -->
+  <RG_DinosaursHideMedium.label>medium dinosaurs hide</RG_DinosaursHideMedium.label>
+  <!-- EN: Medium theropod or sauropod hide, often from ones with few natural defenses. -->
+  <RG_DinosaursHideMedium.description>Medium theropod or sauropod hide, often from ones with few natural defenses.</RG_DinosaursHideMedium.description>
+  
+  <!-- EN: thin dinosaurs hide -->
+  <RG_DinosaursHideThin.label>thin dinosaurs hide</RG_DinosaursHideThin.label>
+  <!-- EN: Lightweight, thin leather from a small theropod or sauropod. Doesn't insulate well. -->
+  <RG_DinosaursHideThin.description>Lightweight, thin leather from a small theropod or sauropod. Doesn't insulate well.</RG_DinosaursHideThin.description>
+  
+  <!-- EN: woolly rhinoceros wool -->
+  <RG_WoolRhinoceros.label>woolly rhinoceros wool</RG_WoolRhinoceros.label>
+  <!-- EN: Thick and coarse wool of a woolly rhinoceros. Quite warm. -->
+  <RG_WoolRhinoceros.description>Thick and coarse wool of a woolly rhinoceros. Quite warm.</RG_WoolRhinoceros.description>
+  
+  <!-- EN: woolly stegosaurus wool -->
+  <RG_WoolStegosaurus.label>woolly stegosaurus wool</RG_WoolStegosaurus.label>
+  <!-- EN: Thick and coarse wool of a woolly stegosaurus. Quite warm. -->
+  <RG_WoolStegosaurus.description>Thick and coarse wool of a woolly stegosaurus. Quite warm.</RG_WoolStegosaurus.description>
+  
+</LanguageData>

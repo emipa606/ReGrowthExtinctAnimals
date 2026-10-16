@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dodo -->
+  <RG_Dodo.label>dodo</RG_Dodo.label>
+  <!-- EN: A flightless bird rendered extinct at the hands of ancient humans, they have been portrayed as fat, clumsy creatures but were actually well-adapted to their ecosystem. Their last home was the forests along the dry coastal areas of an isolated island, and their diet consisted mostly of fruit which was digested with the help of gizzard stones.\n\nDodos were one of the first widely-known animals to have been brought to extinction solely by the influence of humans on Terra, and were flightless because of many centuries living without predators, laying only a single egg for their clutches. They prefer warmer climates with plentiful berry bushes and their only means of defense is their considerably large beak. -->
+  <RG_Dodo.description>A flightless bird rendered extinct at the hands of ancient humans, they have been portrayed as fat, clumsy creatures but were actually well-adapted to their ecosystem. Their last home was the forests along the dry coastal areas of an isolated island, and their diet consisted mostly of fruit which was digested with the help of gizzard stones.
+
+Dodos were one of the first widely-known animals to have been brought to extinction solely by the influence of humans on Terra, and were flightless because of many centuries living without predators, laying only a single egg for their clutches. They prefer warmer climates with plentiful berry bushes and their only means of defense is their considerably large beak.</RG_Dodo.description>
+  <!-- EN: claws -->
+  <RG_Dodo.tools.claws.label>claws</RG_Dodo.tools.claws.label>
+  <!-- EN: beak -->
+  <RG_Dodo.tools.beak.label>beak</RG_Dodo.tools.beak.label>
+  <!-- EN: head -->
+  <RG_Dodo.tools.head.label>head</RG_Dodo.tools.head.label>
+  
+  <!-- EN: smilodon -->
+  <RG_SabertoothTiger.label>smilodon</RG_SabertoothTiger.label>
+  <!-- EN: One of the most dangerous big cats to ever roam earth, smilodons are solitary hunters with two massive Sabertooths, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat. -->
+  <RG_SabertoothTiger.description>One of the most dangerous big cats to ever roam earth, smilodons are solitary hunters with two massive Sabertooths, sharp teeth and claws. They stalk prey from hidden positions before pouncing.
+
+While humans are not their normal diet, they won't turn down a meal of vulnerable human meat.</RG_SabertoothTiger.description>
+  <!-- EN: left claw -->
+  <RG_SabertoothTiger.tools.left_claw.label>left claw</RG_SabertoothTiger.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <RG_SabertoothTiger.tools.right_claw.label>right claw</RG_SabertoothTiger.tools.right_claw.label>
+  <!-- EN: head -->
+  <RG_SabertoothTiger.tools.head.label>head</RG_SabertoothTiger.tools.head.label>
+  
+  <!-- EN: synthetion -->
+  <RG_Synthetion.label>synthetion</RG_Synthetion.label>
+  <!-- EN: A large member of the deer family, these extinct creatures once lived for millions of years before humans came into being. They subsist on tough grasses and similar foods, and prefer temperate regions of forests and plains.\n\nProtoceratids are rather nimble herbivores with an unusual feature on the males. While having the regular horns near the ears, males feature rostral horns above the nose covered in skin. These horns, which are fused at the base and branch at the tip, are likely used as a sexual display and also used in sparring for competition of mates. -->
+  <RG_Synthetion.description>A large member of the deer family, these extinct creatures once lived for millions of years before humans came into being. They subsist on tough grasses and similar foods, and prefer temperate regions of forests and plains.
+
+Protoceratids are rather nimble herbivores with an unusual feature on the males. While having the regular horns near the ears, males feature rostral horns above the nose covered in skin. These horns, which are fused at the base and branch at the tip, are likely used as a sexual display and also used in sparring for competition of mates.</RG_Synthetion.description>
+  <!-- EN: left hoof -->
+  <RG_Synthetion.tools.left_hoof.label>left hoof</RG_Synthetion.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <RG_Synthetion.tools.right_hoof.label>right hoof</RG_Synthetion.tools.right_hoof.label>
+  <!-- EN: head -->
+  <RG_Synthetion.tools.head.label>head</RG_Synthetion.tools.head.label>
+  
+  <!-- EN: terror bird -->
+  <RG_TerrorBird.label>terror bird</RG_TerrorBird.label>
+  <!-- EN: A once extinct species of large carnivorous flightless birds who are described by locals by the far more apt moniker “terror birds'' due to the bowel-loosening terror caused by their sighting.\n\nPhorusrhacids have large, sharp beaks and powerful neck muscles that allow them to peck with a force strong enough to shatter bones and rip the flesh straight off their prey. Their legs are accented by large, sharp talons which allow them to quickly pursue their targets, following up with vicious kicks to disembowel them or hold them down while they strike down with their beak into vital organs. -->
+  <RG_TerrorBird.description>A once extinct species of large carnivorous flightless birds who are described by locals by the far more apt moniker “terror birds'' due to the bowel-loosening terror caused by their sighting.
+
+Phorusrhacids have large, sharp beaks and powerful neck muscles that allow them to peck with a force strong enough to shatter bones and rip the flesh straight off their prey. Their legs are accented by large, sharp talons which allow them to quickly pursue their targets, following up with vicious kicks to disembowel them or hold them down while they strike down with their beak into vital organs.</RG_TerrorBird.description>
+  <!-- EN: claws -->
+  <RG_TerrorBird.tools.claws.label>claws</RG_TerrorBird.tools.claws.label>
+  <!-- EN: head -->
+  <RG_TerrorBird.tools.head.label>head</RG_TerrorBird.tools.head.label>
+  
+  <!-- EN: thrinaxodon -->
+  <RG_Thrinaxodon.label>thrinaxodon</RG_Thrinaxodon.label>
+  <!-- EN: A small carnivorous synapsid roughly similar in size to foxes with diets that typically consist of insects and small herbivores. Their tendency to burrow helped them survive through one of the mass extinction events back on Earth.\n\nThe Thrinaxodon is native to Tundra and Boreal Forest regions, able to survive the cold both due to their fur and burrowing habits. They are also a social creature and often found in packs, which usually result in them hunting larger prey when there is a lack of suitable low-risk sustenance. -->
+  <RG_Thrinaxodon.description>A small carnivorous synapsid roughly similar in size to foxes with diets that typically consist of insects and small herbivores. Their tendency to burrow helped them survive through one of the mass extinction events back on Earth.
+
+The Thrinaxodon is native to Tundra and Boreal Forest regions, able to survive the cold both due to their fur and burrowing habits. They are also a social creature and often found in packs, which usually result in them hunting larger prey when there is a lack of suitable low-risk sustenance.</RG_Thrinaxodon.description>
+  <!-- EN: left claw -->
+  <RG_Thrinaxodon.tools.left_claw.label>left claw</RG_Thrinaxodon.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <RG_Thrinaxodon.tools.right_claw.label>right claw</RG_Thrinaxodon.tools.right_claw.label>
+  <!-- EN: head -->
+  <RG_Thrinaxodon.tools.head.label>head</RG_Thrinaxodon.tools.head.label>
+  
+</LanguageData>

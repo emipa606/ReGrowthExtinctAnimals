@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dodo egg (fert.) -->
+  <RG_EggDodoEggFertilized.label>dodo egg (fert.)</RG_EggDodoEggFertilized.label>
+  <!-- EN: A fertilized dodo egg. If all goes well, it should hatch into a dodo. It can be eaten raw, but it's much better cooked. -->
+  <RG_EggDodoEggFertilized.description>A fertilized dodo egg. If all goes well, it should hatch into a dodo. It can be eaten raw, but it's much better cooked.</RG_EggDodoEggFertilized.description>
+  
+  <!-- EN: dodo egg (unfert.) -->
+  <RG_EggDodoEggUnfertilized.label>dodo egg (unfert.)</RG_EggDodoEggUnfertilized.label>
+  <!-- EN: An unfertilized dodo egg. It can be eaten raw, but it's much, much better cooked. -->
+  <RG_EggDodoEggUnfertilized.description>An unfertilized dodo egg. It can be eaten raw, but it's much, much better cooked.</RG_EggDodoEggUnfertilized.description>
+  
+  <!-- EN: terror bird egg (fert.) -->
+  <RG_EggTerrorBirdFertilized.label>terror bird egg (fert.)</RG_EggTerrorBirdFertilized.label>
+  <!-- EN: A fertilized terror bird egg. If all goes well, it should hatch into a baby terror bird. It can be eaten raw, but it's much better cooked. -->
+  <RG_EggTerrorBirdFertilized.description>A fertilized terror bird egg. If all goes well, it should hatch into a baby terror bird. It can be eaten raw, but it's much better cooked.</RG_EggTerrorBirdFertilized.description>
+  
+  <!-- EN: terror bird egg (unfert.) -->
+  <RG_EggTerrorBirdUnFertilized.label>terror bird egg (unfert.)</RG_EggTerrorBirdUnFertilized.label>
+  <!-- EN: An unfertilized terror bird egg. It can be eaten raw, but it's much better cooked. -->
+  <RG_EggTerrorBirdUnFertilized.description>An unfertilized terror bird egg. It can be eaten raw, but it's much better cooked.</RG_EggTerrorBirdUnFertilized.description>
+  
+  <!-- EN: thrinaxodon egg (fert.) -->
+  <RG_EggThrinaxodonFertilized.label>thrinaxodon egg (fert.)</RG_EggThrinaxodonFertilized.label>
+  <!-- EN: A fertilized thrinaxodon egg. If all goes well, it should hatch into a baby thrinaxodon. It can be eaten raw, but it's much better cooked. -->
+  <RG_EggThrinaxodonFertilized.description>A fertilized thrinaxodon egg. If all goes well, it should hatch into a baby thrinaxodon. It can be eaten raw, but it's much better cooked.</RG_EggThrinaxodonFertilized.description>
+  
+  <!-- EN: thrinaxodon egg (unfert.) -->
+  <RG_EggThrinaxodonUnFertilized.label>thrinaxodon egg (unfert.)</RG_EggThrinaxodonUnFertilized.label>
+  <!-- EN: An unfertilized thrinaxodon egg. It can be eaten raw, but it's much better cooked. -->
+  <RG_EggThrinaxodonUnFertilized.description>An unfertilized thrinaxodon egg. It can be eaten raw, but it's much better cooked.</RG_EggThrinaxodonUnFertilized.description>
+  
+</LanguageData>

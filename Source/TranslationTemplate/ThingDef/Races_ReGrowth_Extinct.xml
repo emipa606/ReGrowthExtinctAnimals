@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic drak -->
+  <RG_ArcticDrak.label>arctic drak</RG_ArcticDrak.label>
+  <!-- EN: An unusual result of trying to bring back extinct animals through messy data, this lizard-bird hybrid very likely never actually existed previously. While not much of a runner, they are however well adapted to arctic environments and can swim long distances in the freezing water in search of prey.\n\nArctic Draks are solitary creatures that prefer to hunt prey that surface at breathing holes, with remarkably efficient fur of hollow hair strands similar to a polar bear. They have long, powerful arms ending in clawed, webbed-fingers, and males additionally sport plumage at the back of the skull to attract mates. -->
+  <RG_ArcticDrak.description>An unusual result of trying to bring back extinct animals through messy data, this lizard-bird hybrid very likely never actually existed previously. While not much of a runner, they are however well adapted to arctic environments and can swim long distances in the freezing water in search of prey.
+
+Arctic Draks are solitary creatures that prefer to hunt prey that surface at breathing holes, with remarkably efficient fur of hollow hair strands similar to a polar bear. They have long, powerful arms ending in clawed, webbed-fingers, and males additionally sport plumage at the back of the skull to attract mates.</RG_ArcticDrak.description>
+  <!-- EN: left claw -->
+  <RG_ArcticDrak.tools.left_claw.label>left claw</RG_ArcticDrak.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <RG_ArcticDrak.tools.right_claw.label>right claw</RG_ArcticDrak.tools.right_claw.label>
+  <!-- EN: teeth -->
+  <RG_ArcticDrak.tools.teeth.label>teeth</RG_ArcticDrak.tools.teeth.label>
+  <!-- EN: tail -->
+  <RG_ArcticDrak.tools.tail.label>tail</RG_ArcticDrak.tools.tail.label>
+  
+  <!-- EN: megalenhydris -->
+  <RG_Megalenhydris.label>megalenhydris</RG_Megalenhydris.label>
+  <!-- EN: A semi-aquatic mammal, these giant otters have diets consisting mostly of shellfish, crustaceans and various hardy vegetation. If hungry, they may be driven to consuming larger, weakened mammals but typically migrate to more bountiful areas.\n\nMegalenhydris are fantastic swimmers due to both their flexible body and oily, water-repulsive fur. Their long tail ends with a flat fin which is both used for high aquatic mobility but can also be used defensively by effectively slapping predators with it in a whip-like fashion. -->
+  <RG_Megalenhydris.description>A semi-aquatic mammal, these giant otters have diets consisting mostly of shellfish, crustaceans and various hardy vegetation. If hungry, they may be driven to consuming larger, weakened mammals but typically migrate to more bountiful areas.
+
+Megalenhydris are fantastic swimmers due to both their flexible body and oily, water-repulsive fur. Their long tail ends with a flat fin which is both used for high aquatic mobility but can also be used defensively by effectively slapping predators with it in a whip-like fashion.</RG_Megalenhydris.description>
+  <!-- EN: left claw -->
+  <RG_Megalenhydris.tools.left_claw.label>left claw</RG_Megalenhydris.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <RG_Megalenhydris.tools.right_claw.label>right claw</RG_Megalenhydris.tools.right_claw.label>
+  <!-- EN: head -->
+  <RG_Megalenhydris.tools.head.label>head</RG_Megalenhydris.tools.head.label>
+  <!-- EN: tail -->
+  <RG_Megalenhydris.tools.tail.label>tail</RG_Megalenhydris.tools.tail.label>
+  
+  <!-- EN: Sabertooth squirrel -->
+  <RG_SabertoothSquirrel.label>Sabertooth squirrel</RG_SabertoothSquirrel.label>
+  <!-- EN: Technically not a formerly extinct species, the Saber-tooth Squirrel was brought forth due to a combination of archiver errors and overenthusiastic lab workers who wanted to push the limits of science and improve public perception.\n\nThese squirrels are distinguished by their bushy tails and two overgrown, protruding front teeth which are used to dig into tough soil or crack open the hard shells of various types of nuts. -->
+  <RG_SabertoothSquirrel.description>Technically not a formerly extinct species, the Saber-tooth Squirrel was brought forth due to a combination of archiver errors and overenthusiastic lab workers who wanted to push the limits of science and improve public perception.
+
+These squirrels are distinguished by their bushy tails and two overgrown, protruding front teeth which are used to dig into tough soil or crack open the hard shells of various types of nuts.</RG_SabertoothSquirrel.description>
+  <!-- EN: left claw -->
+  <RG_SabertoothSquirrel.tools.left_claw.label>left claw</RG_SabertoothSquirrel.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <RG_SabertoothSquirrel.tools.right_claw.label>right claw</RG_SabertoothSquirrel.tools.right_claw.label>
+  <!-- EN: head -->
+  <RG_SabertoothSquirrel.tools.head.label>head</RG_SabertoothSquirrel.tools.head.label>
+  
+  <!-- EN: velociraptor -->
+  <RG_Velociraptor.label>velociraptor</RG_Velociraptor.label>
+  <!-- EN: Meaning “swift robber”, these turkey-sized predators are fearless, flightless, feathered little bastards that can hunt creatures up to twice their size by coordinating in packs. Of particular note are their enlarged sickle-shaped claws on each hindfoot with which they kick to slash, pierce and disembowel their prey.\n\nVelociraptors typically prefer to hunt alone so as to not share their quarry, behaving similarly to birds of prey by leaping onto smaller, easier targets and gripping them in their jaws and claws. They have excellent hearing for tracking prey and are very opportunistic, scavenging on carrion during droughts, famines, or general periods of poor health.\n\nBeing based on ancient InGen gen patterns, these specific Velociraptors are female only. -->
+  <RG_Velociraptor.description>Meaning “swift robber”, these turkey-sized predators are fearless, flightless, feathered little bastards that can hunt creatures up to twice their size by coordinating in packs. Of particular note are their enlarged sickle-shaped claws on each hindfoot with which they kick to slash, pierce and disembowel their prey.
+
+Velociraptors typically prefer to hunt alone so as to not share their quarry, behaving similarly to birds of prey by leaping onto smaller, easier targets and gripping them in their jaws and claws. They have excellent hearing for tracking prey and are very opportunistic, scavenging on carrion during droughts, famines, or general periods of poor health.
+
+Being based on ancient InGen gen patterns, these specific Velociraptors are female only.</RG_Velociraptor.description>
+  <!-- EN: theropod meat -->
+  <RG_Velociraptor.race.meatLabel>theropod meat</RG_Velociraptor.race.meatLabel>
+  <!-- EN: left claw -->
+  <RG_Velociraptor.tools.left_claw.label>left claw</RG_Velociraptor.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <RG_Velociraptor.tools.right_claw.label>right claw</RG_Velociraptor.tools.right_claw.label>
+  <!-- EN: head -->
+  <RG_Velociraptor.tools.head.label>head</RG_Velociraptor.tools.head.label>
+  
+  <!-- EN: woolly mammoth -->
+  <RG_WoollyMammoth.label>woolly mammoth</RG_WoollyMammoth.label>
+  <!-- EN: A previously extinct species whose closest relative were Asian elephants, their spoils were of a significant boon to the development of early human civilization back on Terra. Particularly their ivory which was used in art, tools and dwellings even after their extinction.\n\nWoolly Mammoths are roughly the size of African elephants and have both an outer and an undercoat of fur which allow them to easily survive arctic winters. Similarly to elephants, their tusks and trunk are used for manipulating objects, fighting, and foraging, although their tusks are considerably longer, thicker and have a significant forward curve. -->
+  <RG_WoollyMammoth.description>A previously extinct species whose closest relative were Asian elephants, their spoils were of a significant boon to the development of early human civilization back on Terra. Particularly their ivory which was used in art, tools and dwellings even after their extinction.
+
+Woolly Mammoths are roughly the size of African elephants and have both an outer and an undercoat of fur which allow them to easily survive arctic winters. Similarly to elephants, their tusks and trunk are used for manipulating objects, fighting, and foraging, although their tusks are considerably longer, thicker and have a significant forward curve.</RG_WoollyMammoth.description>
+  <!-- EN: mammoth meat -->
+  <RG_WoollyMammoth.race.meatLabel>mammoth meat</RG_WoollyMammoth.race.meatLabel>
+  <!-- EN: tusk -->
+  <RG_WoollyMammoth.tools.tusk.label>tusk</RG_WoollyMammoth.tools.tusk.label>
+  <!-- EN: left foot -->
+  <RG_WoollyMammoth.tools.left_foot.label>left foot</RG_WoollyMammoth.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <RG_WoollyMammoth.tools.right_foot.label>right foot</RG_WoollyMammoth.tools.right_foot.label>
+  <!-- EN: head -->
+  <RG_WoollyMammoth.tools.head.label>head</RG_WoollyMammoth.tools.head.label>
+  
+  <!-- EN: woolly rhinoceros -->
+  <RG_WoollyRhinoceros.label>woolly rhinoceros</RG_WoollyRhinoceros.label>
+  <!-- EN: Thanks to their large size and massive horns, this formerly extinct species had very few predators when they reached adulthood. Their long, thick fur allowed them to comfortably live in arctic regions while subsisting on vegetation.\n\nWoolly Rhinoceroses rely on their long, sharp horn to dig through frozen terrain to feast on underlying roots, however it is also used during the rutting season as the males are incredibly territorial. Caution is advised to not threaten their territory or family, as a full-on charge can overturn a tank much less an armored human. -->
+  <RG_WoollyRhinoceros.description>Thanks to their large size and massive horns, this formerly extinct species had very few predators when they reached adulthood. Their long, thick fur allowed them to comfortably live in arctic regions while subsisting on vegetation.
+
+Woolly Rhinoceroses rely on their long, sharp horn to dig through frozen terrain to feast on underlying roots, however it is also used during the rutting season as the males are incredibly territorial. Caution is advised to not threaten their territory or family, as a full-on charge can overturn a tank much less an armored human.</RG_WoollyRhinoceros.description>
+  <!-- EN: horn -->
+  <RG_WoollyRhinoceros.tools.horn-0.label>horn</RG_WoollyRhinoceros.tools.horn-0.label>
+  <!-- EN: horn -->
+  <RG_WoollyRhinoceros.tools.horn-1.label>horn</RG_WoollyRhinoceros.tools.horn-1.label>
+  <!-- EN: head -->
+  <RG_WoollyRhinoceros.tools.head.label>head</RG_WoollyRhinoceros.tools.head.label>
+  
+  <!-- EN: woolly stegosaurus -->
+  <RG_WoollyStegosaurus.label>woolly stegosaurus</RG_WoollyStegosaurus.label>
+  <!-- EN: A variation of the more common “roof lizard”, this creature is a herbivore characterized by their distinctive kite-shaped upright bony scales along the back which help regulate their body temperature and acts as a mating display.\n\nThe Woolly Stegosaurus finds their home in cold biomes, preferring to eat low-lying vegetation due to a short neck and small head. The spines on the end of the tail differ from the regular Stegosaurus, in that they are curved instead of straight. While this does hinder their ability to defend against predators somewhat, they are much better suited to digging into hard soil and flinging it away to exposed nutritious roots. -->
+  <RG_WoollyStegosaurus.description>A variation of the more common “roof lizard”, this creature is a herbivore characterized by their distinctive kite-shaped upright bony scales along the back which help regulate their body temperature and acts as a mating display.
+
+The Woolly Stegosaurus finds their home in cold biomes, preferring to eat low-lying vegetation due to a short neck and small head. The spines on the end of the tail differ from the regular Stegosaurus, in that they are curved instead of straight. While this does hinder their ability to defend against predators somewhat, they are much better suited to digging into hard soil and flinging it away to exposed nutritious roots.</RG_WoollyStegosaurus.description>
+  <!-- EN: stegosaurus meat -->
+  <RG_WoollyStegosaurus.race.meatLabel>stegosaurus meat</RG_WoollyStegosaurus.race.meatLabel>
+  <!-- EN: head -->
+  <RG_WoollyStegosaurus.tools.head.label>head</RG_WoollyStegosaurus.tools.head.label>
+  <!-- EN: left foot -->
+  <RG_WoollyStegosaurus.tools.left_foot.label>left foot</RG_WoollyStegosaurus.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <RG_WoollyStegosaurus.tools.right_foot.label>right foot</RG_WoollyStegosaurus.tools.right_foot.label>
+  <!-- EN: tail spikes -->
+  <RG_WoollyStegosaurus.tools.tail_spikes.label>tail spikes</RG_WoollyStegosaurus.tools.tail_spikes.label>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mammoth tusk -->
+  <RG_MammothTusk.label>mammoth tusk</RG_MammothTusk.label>
+  <!-- EN: The tusk of a mammoth. It can be sold to traders for silver. -->
+  <RG_MammothTusk.description>The tusk of a mammoth. It can be sold to traders for silver.</RG_MammothTusk.description>
+  <!-- EN: point -->
+  <RG_MammothTusk.tools.point.label>point</RG_MammothTusk.tools.point.label>
+  <!-- EN: base -->
+  <RG_MammothTusk.tools.base.label>base</RG_MammothTusk.tools.base.label>
+  
+</LanguageData>

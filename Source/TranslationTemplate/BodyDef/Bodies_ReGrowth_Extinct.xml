@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sauropod with tail spikes -->
+  <RG_SauropodWithTailSpikes.label>sauropod with tail spikes</RG_SauropodWithTailSpikes.label>
+  <!-- EN: left lung -->
+  <RG_SauropodWithTailSpikes.corePart.parts.left_lung.customLabel>left lung</RG_SauropodWithTailSpikes.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <RG_SauropodWithTailSpikes.corePart.parts.right_lung.customLabel>right lung</RG_SauropodWithTailSpikes.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <RG_SauropodWithTailSpikes.corePart.parts.left_kidney.customLabel>left kidney</RG_SauropodWithTailSpikes.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <RG_SauropodWithTailSpikes.corePart.parts.right_kidney.customLabel>right kidney</RG_SauropodWithTailSpikes.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <RG_SauropodWithTailSpikes.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>left eye</RG_SauropodWithTailSpikes.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <RG_SauropodWithTailSpikes.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>right eye</RG_SauropodWithTailSpikes.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: front left leg -->
+  <RG_SauropodWithTailSpikes.corePart.parts.front_left_leg.customLabel>front left leg</RG_SauropodWithTailSpikes.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left foot -->
+  <RG_SauropodWithTailSpikes.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>front left foot</RG_SauropodWithTailSpikes.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+  <!-- EN: front right leg -->
+  <RG_SauropodWithTailSpikes.corePart.parts.front_right_leg.customLabel>front right leg</RG_SauropodWithTailSpikes.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right foot -->
+  <RG_SauropodWithTailSpikes.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>front right foot</RG_SauropodWithTailSpikes.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+  <!-- EN: rear left leg -->
+  <RG_SauropodWithTailSpikes.corePart.parts.rear_left_leg.customLabel>rear left leg</RG_SauropodWithTailSpikes.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left foot -->
+  <RG_SauropodWithTailSpikes.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>rear left foot</RG_SauropodWithTailSpikes.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+  <!-- EN: rear right leg -->
+  <RG_SauropodWithTailSpikes.corePart.parts.rear_right_leg.customLabel>rear right leg</RG_SauropodWithTailSpikes.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right foot -->
+  <RG_SauropodWithTailSpikes.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>rear right foot</RG_SauropodWithTailSpikes.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+  
+  <!-- EN: theropod -->
+  <RG_TheropodWithClaws.label>theropod</RG_TheropodWithClaws.label>
+  <!-- EN: left lung -->
+  <RG_TheropodWithClaws.corePart.parts.left_lung.customLabel>left lung</RG_TheropodWithClaws.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <RG_TheropodWithClaws.corePart.parts.right_lung.customLabel>right lung</RG_TheropodWithClaws.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <RG_TheropodWithClaws.corePart.parts.left_kidney.customLabel>left kidney</RG_TheropodWithClaws.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <RG_TheropodWithClaws.corePart.parts.right_kidney.customLabel>right kidney</RG_TheropodWithClaws.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <RG_TheropodWithClaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>left eye</RG_TheropodWithClaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <RG_TheropodWithClaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>right eye</RG_TheropodWithClaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left leg -->
+  <RG_TheropodWithClaws.corePart.parts.left_leg.customLabel>left leg</RG_TheropodWithClaws.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <RG_TheropodWithClaws.corePart.parts.left_leg.parts.left_foot.customLabel>left foot</RG_TheropodWithClaws.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left claw -->
+  <RG_TheropodWithClaws.corePart.parts.left_leg.parts.left_claw.customLabel>left claw</RG_TheropodWithClaws.corePart.parts.left_leg.parts.left_claw.customLabel>
+  <!-- EN: right leg -->
+  <RG_TheropodWithClaws.corePart.parts.right_leg.customLabel>right leg</RG_TheropodWithClaws.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <RG_TheropodWithClaws.corePart.parts.right_leg.parts.right_foot.customLabel>right foot</RG_TheropodWithClaws.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right claw -->
+  <RG_TheropodWithClaws.corePart.parts.right_leg.parts.right_claw.customLabel>right claw</RG_TheropodWithClaws.corePart.parts.right_leg.parts.right_claw.customLabel>
+  
+</LanguageData>
