@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>ReGrowth: Extinct Animals (Continued)</name>
+  <name>[1.6] ReGrowth: Extinct Animals (Continued)</name>
   <packageId>Mlie.ReGrowthExtinctAnimals</packageId>
   <author>Helixien</author>
   <url>https://github.com/emipa606/ReGrowthExtinctAnimals</url>
@@ -25,12 +25,14 @@
 Update of Helixiens mod https://steamcommunity.com/sharedfiles/filedetails/?id=2266685892
 with permission.
 
-- Some of the animals in this mod has been included in [url=https://steamcommunity.com/workshop/filedetails/?id=2260097569]ReGrowth 2[/url]. If that mod is loaded, its version of these animals will be used instead.
+[b]The release of RimWorld 1.7 added a system where assets like textures and sounds can be cached to improve performance[/b].
+To avoid doubling the size of the mod, it was re-released with only this cache included, you can find the new version of this mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3820991509]here[/url].
+This version will not receive any further updates.
 
 [img]https://img.litet.net/logos/Notice.png[/img]
 
 [table]
-    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/ReGrowthExtinctAnimals][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/ReGrowthExtinctAnimals/tree/assetbundles][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
     [/tr]
     [tr]
         [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
@@ -131,6 +133,6 @@ Rimworld is owned by Tynan Sylvester and he wants you to finally buy his book!
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3602926791][img]https://img.shields.io/github/v/release/emipa606/ReGrowthExtinctAnimals?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: biomes, vanilla friendly</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.2</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3602926791][img]https://img.shields.io/github/v/release/emipa606/ReGrowthExtinctAnimals?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | biomes, vanilla friendly</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.3</modVersion>
 </ModMetaData>

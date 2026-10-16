@@ -1,34 +1,27 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
   <!-- EN: drak egg (fert.) -->
   <RG_EggArticDrakFertilized.label>drak egg (fert.)</RG_EggArticDrakFertilized.label>
   <!-- EN: A fertilized drak egg. If all goes well, it should hatch into a baby drak. It can be eaten raw, but it's much better cooked. -->
   <RG_EggArticDrakFertilized.description>A fertilized drak egg. If all goes well, it should hatch into a baby drak. It can be eaten raw, but it's much better cooked.</RG_EggArticDrakFertilized.description>
-  
   <!-- EN: drak egg (unfert.) -->
   <RG_EggArticDrakUnFertilized.label>drak egg (unfert.)</RG_EggArticDrakUnFertilized.label>
   <!-- EN: An unfertilized drak egg. It can be eaten raw, but it's much better cooked. -->
   <RG_EggArticDrakUnFertilized.description>An unfertilized drak egg. It can be eaten raw, but it's much better cooked.</RG_EggArticDrakUnFertilized.description>
-  
   <!-- EN: velociraptor egg (fert.) -->
   <RG_EggVelociraptorFertilized.label>velociraptor egg (fert.)</RG_EggVelociraptorFertilized.label>
   <!-- EN: A fertilized drak egg. If all goes well, it should hatch into a baby drak. It can be eaten raw, but it's much better cooked. -->
   <RG_EggVelociraptorFertilized.description>A fertilized drak egg. If all goes well, it should hatch into a baby drak. It can be eaten raw, but it's much better cooked.</RG_EggVelociraptorFertilized.description>
-  
   <!-- EN: velociraptor egg (unfert.) -->
   <RG_EggVelociraptorUnFertilized.label>velociraptor egg (unfert.)</RG_EggVelociraptorUnFertilized.label>
   <!-- EN: An unfertilized drak egg. It can be eaten raw, but it's much better cooked. -->
   <RG_EggVelociraptorUnFertilized.description>An unfertilized drak egg. It can be eaten raw, but it's much better cooked.</RG_EggVelociraptorUnFertilized.description>
-  
   <!-- EN: woolly stegosaurus(fert.) -->
   <RG_EggWoollyStegosaurus.label>woolly stegosaurus(fert.)</RG_EggWoollyStegosaurus.label>
   <!-- EN: A fertilized woolly stegosaurus egg. If all goes well, it should hatch into a baby woolly stegosaurus. It can be eaten raw, but it's much better cooked. -->
   <RG_EggWoollyStegosaurus.description>A fertilized woolly stegosaurus egg. If all goes well, it should hatch into a baby woolly stegosaurus. It can be eaten raw, but it's much better cooked.</RG_EggWoollyStegosaurus.description>
-  
   <!-- EN: woolly stegosaurus(unfert.) -->
   <RG_EggWoollyStegosaurusUn.label>woolly stegosaurus(unfert.)</RG_EggWoollyStegosaurusUn.label>
   <!-- EN: An unfertilized woolly stegosaurus egg. It can be eaten raw, but it's much better cooked. -->
   <RG_EggWoollyStegosaurusUn.description>An unfertilized woolly stegosaurus egg. It can be eaten raw, but it's much better cooked.</RG_EggWoollyStegosaurusUn.description>
-  
 </LanguageData>
